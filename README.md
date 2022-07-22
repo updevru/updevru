@@ -6,6 +6,8 @@
 
 Робот для поиска экскурсий на человеческом языке [GidPlace.com](https://gidplace.com/ru) (Dialogflow, Symfony)
 
+Клиент на PHP для API Dkron https://github.com/updevru/dkron-php-client (PHP)
+
 <!---
 updevru/updevru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
