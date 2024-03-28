@@ -1,10 +1,15 @@
-Меня зовут Сергей, профисеонально занимаюсь программированием на PHP, JavaScript и немного Go.
+Меня зовут Сергей, занимаюсь разработкой на PHP, Go и TypeScript.
 
 Хобби проекты:
 
 Бот-помощник для команды разработки https://github.com/updevru/polkovnik-bot (Go, ReactJS)
 
-Робот для поиска экскурсий на человеческом языке [GidPlace.com](https://gidplace.com/ru) (Dialogflow, Symfony)
+Сервис полезных API для разработчиков https://apispace.ru (Go, ReactJS, Serverless)
+
+- Geo IP
+- Справочники
+- Проверка номера телефона
+- и др.
 
 Клиент на PHP для API Dkron https://github.com/updevru/dkron-php-client (PHP)
 
