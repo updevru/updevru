@@ -1,8 +1,5 @@
 <h2>Hello! I'm Sergey!</h2>
 
-
-## 👨‍💻 About Me
-
 - 15+ years of professional software development experience
 - Lead Developer and mentor
 - Primary stack: **Go**, **PHP**, **TypeScript**
@@ -13,17 +10,17 @@
 
 **Languages & Frameworks**
 
-[![Skills](https://skillicons.dev/icons?i=go,php,ts,js,react,nextjs,tailwind&perline=7)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=go,php,ts,js,react,nextjs,tailwind&perline=7)](https://updev.ru/radar/)
 
 **Infrastructure & DevOps**
 
-[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,ansible,nginx,github,gitlab,terraform,&perline=7)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,ansible,nginx,github,gitlab,terraform,&perline=8)](https://updev.ru/radar/)
 
 **Databases & Tools**
 
-[![Skills](https://skillicons.dev/icons?i=postgres,mysql,kafka,elasticsearch,grafana,sentry&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=postgres,mysql,kafka,elasticsearch,grafana,sentry&perline=6)](https://updev.ru/radar/)
 
-## Featured Projects
+## 👨‍💻 Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
