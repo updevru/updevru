@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&height=40&lines=%24+whoami;Lead+Developer+%7C+Team+Lead;%24+uptime;15%2B+years+in+Software+Engineering;%24+cat+stack.txt;Go+%7C+PHP+%7C+TypeScript)](https://updev.ru)
+<h2>Hello! I'm Sergey!</h2>
 
-## About Me
+
+## 👨‍💻 About Me
 
 - 15+ years of professional software development experience
 - Lead Developer and mentor
@@ -8,7 +9,7 @@
 - Building microservices, trading systems, crm, LMS, web platforms and developer tools
 - Writing about tech at [updev.ru](https://updev.ru)
 
-## Tech Stack
+## 🔧 Tech Stack
 
 **Languages & Frameworks**
 
