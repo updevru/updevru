@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Lead+Developer+%7C+Team+Lead;15%2B+years+in+Software+Engineering)](https://updev.ru)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Lead+Developer+%7C+Team+Lead;15%2B+years+in+Software+Engineering)](https://updev.ru)
 
 </div>
 
@@ -14,21 +14,17 @@
 
 ## Tech Stack
 
-<div align="center">
-
 **Languages & Frameworks**
 
-[![Skills](https://skillicons.dev/icons?i=go,php,ts,js,react,nextjs&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=go,php,ts,js,react,nextjs,tailwind&perline=6)](https://skillicons.dev)
 
 **Infrastructure & DevOps**
 
-[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,ansible,nginx,github,gitlab&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,ansible,nginx,github,gitlab,terraform,&perline=6)](https://skillicons.dev)
 
 **Databases & Tools**
 
 [![Skills](https://skillicons.dev/icons?i=postgres,mysql,kafka,elasticsearch,grafana,sentry&perline=6)](https://skillicons.dev)
-
-</div>
 
 ## Featured Projects
 
